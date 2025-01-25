@@ -2,7 +2,8 @@
 
 ### Introduction
 
-In this folder I will show the knowledge I acquired in each selected project from the Project Folder (Folder 1).
+In this folder I will show the knowledge I acquired in the selected projects from the Project Folder (Folder 1). /
+En esta carpeta mostraré los conocimientos que adquirí en los proyectos seleccionados de la carpeta de proyectos (Carpeta 1).
 
 
 ---
@@ -21,7 +22,8 @@ In this folder I will show the knowledge I acquired in each selected project fro
 
 ### "Avance 2 Evidencia (Parte II) - Big Data"
 
-Besides the knowledge acquired in "comentariosPython", I could say I learned and practiced the following topics:
+Besides the knowledge acquired in "comentariosPython", I could say I learned and practiced the following topics... /
+Además del conocimiento adquirido en "comentarioPython", Puedo decir que aprendí y practiqué los siguientes temas...
 
 - How to import and use libraries like math and pandas / Importar librerías como la de *math* o *pandas*
 - I learned more about other fuctions like... / Aprendí más acerca de funciones como...
